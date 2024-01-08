@@ -1,9 +1,5 @@
 # ivy_implement
-//	
-https://github.com/AndroGari/ivy_implement.git
 
-//
-…or create a new repository on the command line
 ```
 echo "# ivy_implement" 
 git init
